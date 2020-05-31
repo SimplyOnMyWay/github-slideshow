@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Well nach inniú lá aoibheann grianmhar dóchasach :) 
+Anois, nach bhfuilim ag foghlaim an-chuid inniú :)
 Use the left arrow to go back!
+
